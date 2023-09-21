@@ -5,7 +5,7 @@
   margin-right: auto;
   width: 85%;" src="https://user-images.githubusercontent.com/49254668/227810816-09b1205b-23f7-4b71-b701-3f872983862e.png](https://i.postimg.cc/bJ7QjWWr/d332959c-49d2-4969-a44a-26873e08b8f6.jpg"></image>
 
-**SEPUH TOPUP 🎮** is an online shopping site for customers that focuses on selling virtual products such as game items, game accounts, and video game currency as well as various types of game vouchers.
+**Topup-in 🎮** is an online shopping site for customers that focuses on selling virtual products such as game items, game accounts, and video game currency as well as various types of game vouchers.
 
 ## What Technology is in This Website?
 
